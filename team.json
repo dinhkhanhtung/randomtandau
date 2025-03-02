@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Nguyễn Văn Hùng",
+    "birthday": "12/01/1981",
+    "province": "Hà Nội",
+    "occupation": "Kỹ sư phần mềm",
+    "role": "Admin",
+    "zodiac": "Ma Kết",
+    "quote": "Cuộc sống là một hành trình, không phải là đích đến",
+    "image": "https://via.placeholder.com/150?text=NguyenVanHung",
+    "zalo": "https://zalo.me/0912345678",
+    "messenger": "https://m.me/nguyenvanhung",
+    "facebook": "https://facebook.com/nguyenvanhung",
+    "map": "https://maps.google.com/?q=Hà+Nội"
+  },
+  {
+    "name": "Trần Thị Mai",
+    "birthday": "25/04/1981",
+    "province": "TP. Hồ Chí Minh",
+    "occupation": "Nhà thiết kế đồ họa",
+    "role": "Thành viên",
+    "zodiac": "Kim Ngưu",
+    "quote": "Nghệ thuật là cách tôi thể hiện bản thân",
+    "image": "https://via.placeholder.com/150?text=TranThiMai",
+    "zalo": "https://zalo.me/0987654321",
+    "messenger": "https://m.me/tranthimai",
+    "facebook": "https://facebook.com/tranthimai",
+    "map": "https://maps.google.com/?q=TP.+Hồ+Chí+Minh"
+  },
+  {
+    "name": "Lê Quang Minh",
+    "birthday": "03/07/1981",
+    "province": "Đà Nẵng",
+    "occupation": "Giáo viên",
+    "role": "Thành viên",
+    "zodiac": "Cự Giải",
+    "quote": "Kiến thức là sức mạnh",
+    "image": "https://via.placeholder.com/150?text=LeQuangMinh",
+    "zalo": "https://zalo.me/0905123456",
+    "messenger": "https://m.me/lequangminh",
+    "facebook": "https://facebook.com/lequangminh",
+    "map": "https://maps.google.com/?q=Đà+Nẵng"
+  },
+  {
+    "name": "Phạm Thị Lan",
+    "birthday": "19/09/1981",
+    "province": "Hải Phòng",
+    "occupation": "Kế toán",
+    "role": "Thành viên",
+    "zodiac": "Xử Nữ",
+    "quote": "Mọi thứ đều cần sự chính xác",
+    "image": "https://via.placeholder.com/150?text=PhamThiLan",
+    "zalo": "https://zalo.me/0936789012",
+    "messenger": "https://m.me/phamthilan",
+    "facebook": "https://facebook.com/phamthilan",
+    "map": "https://maps.google.com/?q=Hải+Phòng"
+  },
+  {
+    "name": "Đỗ Quốc Anh",
+    "birthday": "30/11/1981",
+    "province": "Cần Thơ",
+    "occupation": "Doanh nhân",
+    "role": "Admin",
+    "zodiac": "Nhân Mã",
+    "quote": "Không có gì là không thể",
+    "image": "https://via.placeholder.com/150?text=DoQuocAnh",
+    "zalo": "https://zalo.me/0945123789",
+    "messenger": "https://m.me/doquocanh",
+    "facebook": "https://facebook.com/doquocanh",
+    "map": "https://maps.google.com/?q=Cần+Thơ"
+  }
+]
